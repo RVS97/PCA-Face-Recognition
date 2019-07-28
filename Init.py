@@ -56,8 +56,8 @@ pyplot.figure()
 plotFunc.plot_confusion_matrix(allFaces.confMat("test"), range(1, max(allFaces.idsTest)+1), title="NN Confusion Matrix - Test")
 pyplot.show()
 
-# # Exit
-# sys.exit(0)
+# Exit
+sys.exit(0)
 
 ########## Face recognition using reconstruction errors ####################################################
 
