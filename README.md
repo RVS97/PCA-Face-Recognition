@@ -18,4 +18,4 @@ All of the implementations are executed from the [Init.py](https://github.com/RV
 
 [PCALDA.py](https://github.com/RVS97/PCA-Face-Recognition/blob/master/PCALDA.py) : Class with Linear Discriminant Analysis implementation on top of PCA for face recognition.
 
-[Ensemble.py]() : Class with ensemble apporach implementation on top of PCA-LDA for face recognition.
+[Ensemble.py](https://github.com/RVS97/PCA-Face-Recognition/blob/master/Ensemble.py) : Class with ensemble apporach implementation on top of PCA-LDA for face recognition.
